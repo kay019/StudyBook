@@ -1,4 +1,4 @@
-package study.algorithm.leetCode.Q1;
+package study.algorithm.leetCode.Q1_TwoSum;
 
 import java.util.HashMap;
 import java.util.Map;

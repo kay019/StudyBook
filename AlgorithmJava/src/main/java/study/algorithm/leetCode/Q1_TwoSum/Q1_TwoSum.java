@@ -1,4 +1,4 @@
-package study.algorithm.leetCode.Q1;
+package study.algorithm.leetCode.Q1_TwoSum;
 
 public class Q1_TwoSum {
 
