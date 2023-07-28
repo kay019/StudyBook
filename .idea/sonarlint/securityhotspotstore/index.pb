@@ -9,8 +9,6 @@ E
 Java/build.gradle.kts,0/d/0d34217d61974f86af1eb2471add8a0c0d8346a4
 ]
 -Java/gradle/wrapper/gradle-wrapper.properties,4/5/458b4456c4971a4c52e29684aa629e337ade89b4
-?
-Java/.gitignore,8/2/82ba29112cffc66d44127f64a143c05c07879156
 H
 Java/settings.gradle.kts,3/b/3b5f4b4a9cd39a54e8db9c66777b0765f4f02b74
 e
@@ -27,8 +25,6 @@ k
 ;AlgorithmJava/src/main/java/study/algorithm/main/READEME.md,2/e/2ec965c09203199353f132f8330a8f2ef20986bf
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-Å
-Q.idea/sonarlint/securityhotspotstore/8/2/82ba29112cffc66d44127f64a143c05c07879156,e/e/ee14ec37e8ee73f349dace3925d084f45da1e864
 Å
 Q.idea/sonarlint/securityhotspotstore/4/3/43b8c18b0875ab2dc12bc072bfef6c3bd8c91bdb,3/b/3b8b3255cdd105082b81c8530b396bd14804c347
 Å
@@ -65,8 +61,6 @@ w
 G.idea/sonarlint/issuestore/8/f/8ff5f5c9e1905a29734ceaae595197d448b92353,e/4/e48c01b1a03c2421ec89f219aeb81847df111dac
 8
 Java.iml,4/b/4b030f50e362de75a10637fd31c94a08dfb492a7
-w
-G.idea/sonarlint/issuestore/8/2/82ba29112cffc66d44127f64a143c05c07879156,9/e/9ebbe1eb1d54e09528580bf329c9c0cb5f5ffaef
 q
 A.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml,e/3/e391c74bc035b11c016c419d75345168271dfb31
 q
