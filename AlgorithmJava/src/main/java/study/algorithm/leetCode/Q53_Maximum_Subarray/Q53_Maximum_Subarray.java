@@ -12,10 +12,20 @@ public class Q53_Maximum_Subarray {
     }
 
     public static int maxSubArray(int[] nums) {
-        if(nums[1] >= 1){
-            nums[1] = 1;
+        int maxSum = Integer.MIN_VALUE;
+        int currentSum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            currentSum += nums[i];
+            if (currentSum > maxSum) {
+                maxSum = currentSum;
+            }
+
+            if (currentSum < 0) {
+                currentSum = 0;
+            }
         }
 
-        return 0;
+        return maxSum;
     }
 }
