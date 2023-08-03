@@ -12,6 +12,9 @@ public class Q53_Maximum_Subarray {
     }
 
     public static int maxSubArray(int[] nums) {
+        if(nums[1] >= 1){
+            nums[1] = 1;
+        }
 
         return 0;
     }
