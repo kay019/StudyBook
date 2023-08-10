@@ -6,7 +6,10 @@
       <excludeFolder url="file://$MODULE_DIR$/AlgorithmJava/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/AlgorithmJava/build" />
     </content>
-    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="35917cd0-01f9-4bb3-853d-ab74e3dbde7d" />
   </component>
 </module>

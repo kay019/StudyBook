@@ -19,5 +19,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.9.1" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="95464fa9-647f-42d0-9b42-60032442bce7" />
+  </component>
   <component name="TestModuleProperties" production-module="Java.main" />
 </module>
