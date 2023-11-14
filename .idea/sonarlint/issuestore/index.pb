@@ -51,16 +51,10 @@ G.idea/sonarlint/issuestore/2/e/2ec965c09203199353f132f8330a8f2ef20986bf,f/e/fe
 Q.idea/sonarlint/securityhotspotstore/f/7/f7f03be408856d49b2aed4f67e947b5460491cf8,a/b/ab4c1fb785cf9858bef66ed60dc58fbf6c85b8cd
 w
 G.idea/sonarlint/issuestore/3/b/3b5f4b4a9cd39a54e8db9c66777b0765f4f02b74,6/9/698eb5105d9c6cc21872b1e109c4cb2a8218a08d
-K
-.idea/modules/Java.test.iml,2/1/21c856d9406111d93219337013e0da14129951ba
 A
 AlgorithmJava.iml,3/8/389b5c83afbcf37b9ce242f3b4e4482bfac4b81f
-K
-.idea/modules/Java.main.iml,a/d/ad0ae77b7188719ab3fc903abaa742b132f74d7b
 w
 G.idea/sonarlint/issuestore/8/f/8ff5f5c9e1905a29734ceaae595197d448b92353,e/4/e48c01b1a03c2421ec89f219aeb81847df111dac
-8
-Java.iml,4/b/4b030f50e362de75a10637fd31c94a08dfb492a7
 q
 A.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml,e/3/e391c74bc035b11c016c419d75345168271dfb31
 q
@@ -111,8 +105,6 @@ N
 AlgorithmJava/build.gradle.kts,c/b/cb014929866e826f890df7e824eac3ab645b14a4
 ë
 aAlgorithmJava/src/main/java/study/algorithm/leetCode/Q9_PalindromeNumber/Q9_PalindromeNumber.java,b/5/b5d76ef5ac9ff06e6bc5c6a4cf4aefeab332897f
-Ö
-UAlgorithmJava/src/main/java/study/algorithm/leetCode/Q13_RomanToInt/Q13_RomanToInt.md,9/a/9a591448b254dbaa45359a161e9572ecf537b3f7
 ì
 cAlgorithmJava/src/main/java/study/algorithm/leetCode/Q53_Maximum_Subarray/Q53_Maximum_Subarray.java,3/b/3b73662126e513f9f0933f655a98394d0f940ea1
 ë
@@ -127,3 +119,9 @@ iAlgorithmJava/src/main/java/study/algorithm/leetCode/Q217_Contains_Duplicate/Q2
 WAlgorithmJava/src/main/java/study/algorithm/leetCode/Q13_RomanToInt/Q13_RomanToInt.java,1/4/14cf8e460da0506d57d515d88f6a15e806a4b5c3
 è
 _AlgorithmJava/src/main/java/study/algorithm/leetCode/Q2_Add_Two_Numbers/Q2_Add_Two_Numbers.java,7/b/7b91df673cc3a6f9a8e20ffeae2899b2887e18cc
+Ö
+UAlgorithmJava/src/main/java/study/algorithm/leetCode/Q412_FizzBuzz/Q412_FizzBuzz.java,e/3/e35401227b4b329304454d2c4be031c17d62f765
+°
+qAlgorithmJava/src/main/java/study/algorithm/leetCode/Q1672_RichestCustomerWealth/Q1672_RichestCustomerWealth.java,f/7/f736b5288e636b9550f3808cbe8a52fe6cc6b033
+ù
+mAlgorithmJava/src/main/java/study/algorithm/leetCode/Q1480_RunningSumof1dArray/Q1480_RunningSumof1dArray.java,2/9/29c7dbc2e8726badb48944bf1e010420bbcce01e
