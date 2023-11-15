@@ -5,49 +5,27 @@ public class Q345_ReverseVowelsofaString {
 
     public static void main(String[] args){
 
-        reverseVowels("hello");
+        int[] i = {1,0,3,12, 0};
+        moveZeroes(i);
 
     }
 
-    public static String reverseVowels(String s) {
+    public static void moveZeroes(int[] nums) {
 
-        char[] word = s.toCharArray();
-        int start = 0;
-        int end = s.length() - 1;
-        while (start < end){
-
-            while (start < end && !isVowel(word[start])){
-                start++;
+        for (int i = 1; i < nums.length; i++) {
+            int left = nums[i - 1];
+            int right = nums[i];
+            if(left == 0){
+                int tmp = left;
+                nums[i - 1] = nums[i];
+                nums[i] = right;
             }
 
-            while(start < end && !isVowel(word[end])){
-                end--;
-            }
-
-            if(start < end){
-                swap(word, start, end);
-                start++;
-                end--;
-            }
-
-
+            System.out.println("i ===>" + nums[i]);
         }
 
-        return new String(word);
     }
 
-    private static char[] swap(char[] word, int start, int end){
-        char temp = word[start];
-        word[start] = word[end];
-        word[end] = temp;
-
-        return word;
-    }
-
-    private static boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
-                || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
-    }
 
 }
 
